@@ -7,6 +7,6 @@ python untitled game.py
 ## 工夫した点
 - クラス定義と関数を利用したプログラムの簡素化
 ## 使用技術
--python3.13
+- python3.13
 ## ライセンス
 MIT License
